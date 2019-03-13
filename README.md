@@ -3,7 +3,7 @@
     $connect = mysqli_connect($host, $uname, $pass, $db);
 
 2. Bagaimana cara anda membuat database pada phpMySQl!
-    ![alt text]()
+    ![alt text](https://github.com/rashadandredi/Modul7PHP/blob/master/soalno2.PNG)
 
 3. Berikan code query untuk menampilkan sebuah data yang ada pada ke database?
     SELECT * FROM dosen
